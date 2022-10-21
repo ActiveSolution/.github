@@ -23,5 +23,5 @@ ActiveLogin.Authentication enables an application to support Swedish BankID (sve
 - :globe_with_meridians: Web: [Active Solution](https://www.activesolution.se/)
 - :bird: Twitter: [@ActiveSE](https://twitter.com/ActiveSE)
 - :camera: Instagram: [@activesolutionse](https://www.instagram.com/activesolutionse/)
-- :wave: LinekdIn: [Active Solution](https://www.linkedin.com/company/active-solution)
+- :wave: LinkedIn: [Active Solution](https://www.linkedin.com/company/active-solution)
 - :octocat: GitHub: [ActiveSolution](https://github.com/ActiveSolution)
